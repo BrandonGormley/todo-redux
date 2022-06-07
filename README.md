@@ -44,10 +44,10 @@ Run NPM Install to install all packages needed:
 npm install
 ```
 
-Boot up nextjs dev server:
+Boot up dev server:
 
 ```
-npm run dev
+npm run start
 ```
 
 ## Project Status
